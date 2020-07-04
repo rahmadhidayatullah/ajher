@@ -73,7 +73,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div id="body">
 		<p>Iki loh</p>
 
-		<p>If you would like to edit this page you'll find it located at:</p>
+		<p>Jangkrik</p>
 		<code>application/views/welcome_message.php</code>
 
 		<p>The corresponding controller for this page is found at:</p>
