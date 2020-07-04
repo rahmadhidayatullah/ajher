@@ -71,7 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>Oke!</h1>
 
 	<div id="body">
-		<p>Iki loh</p>
+		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
 		<p>Jangkrik</p>
 		<code>application/views/welcome_message.php</code>
